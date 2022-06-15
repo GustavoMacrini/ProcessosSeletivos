@@ -36,6 +36,7 @@ namespace Questao2
                     c = a + b;
 
                 } while (fim != true);
+
             }
             catch (FormatException ex)
             {

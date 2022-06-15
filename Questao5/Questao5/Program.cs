@@ -22,7 +22,6 @@ namespace Questao5
             {
                 Console.WriteLine("Ocorreu uma exceção: " + ex.Message);
             }
-            
         }
     }
 }

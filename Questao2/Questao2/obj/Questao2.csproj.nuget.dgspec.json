@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ws-vs2022\\Projetos\\Questao2\\Questao2\\Questao2.csproj": {}
+    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\ProcessosSeletivos\\Questao2\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "D:\\ws-vs2022\\Projetos\\Questao2\\Questao2\\Questao2.csproj": {
+    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\ProcessosSeletivos\\Questao2\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ws-vs2022\\Projetos\\Questao2\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\ProcessosSeletivos\\Questao2\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "D:\\ws-vs2022\\Projetos\\Questao2\\Questao2\\Questao2.csproj",
+        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\ProcessosSeletivos\\Questao2\\Questao2\\Questao2.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "D:\\ws-vs2022\\Projetos\\Questao2\\Questao2\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\ProcessosSeletivos\\Questao2\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
